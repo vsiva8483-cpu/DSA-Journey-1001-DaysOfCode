@@ -27,6 +27,7 @@ GeeksforGeeks
 
 - Day 31 - Max Product Subset
 - Day 31 - Move all Negative Elements to end.
+- Day 32 - Pairs with certain difference.
 
 LeetCode
 
