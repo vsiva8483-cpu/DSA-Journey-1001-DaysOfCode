@@ -25,14 +25,15 @@ Progress
 
 GeeksforGeeks
 
-- Day 31 - Max Product Subset
+- Day 31 - Max Product Subset(potd)
 - Day 31 - Move all Negative Elements to end.
-- Day 32 - Pairs with certain difference.
+- Day 32 - Pairs with certain difference(potd).
+- Day 33 - SubArray Frequency Count queries(potd).
 
 LeetCode
 
 - Day 31 - Minimum cost of Buying candies with discount(potd)
-- Day 32 - Earlier Finish Time for Land and Water Rides-|
+- Day 32 - Earlier Finish Time for Land and Water Rides-|(potd)
 
 
 More solutions will be added regularly.
