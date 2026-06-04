@@ -29,6 +29,7 @@ GeeksforGeeks
 - Day 31 - Move all Negative Elements to end.
 - Day 32 - Pairs with certain difference(potd).
 - Day 33 - SubArray Frequency Count queries(potd).
+- Day 34 - Substring with Max Zero-One difference.
 
 LeetCode
 
