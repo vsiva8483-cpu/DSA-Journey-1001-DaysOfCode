@@ -31,6 +31,7 @@ GeeksforGeeks
 - Day 33 - SubArray Frequency Count queries(potd).
 - Day 34 - Substring with Max Zero-One difference.
 - Day 35 - Lexicographically Smallest after removing k(potd).
+- Day 36 - Non-Attacking Black and White Knights(potd).
 
 LeetCode
 
