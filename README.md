@@ -33,6 +33,7 @@ GeeksforGeeks
 - Day 35 - Lexicographically Smallest after removing k(potd).
 - Day 36 - Non-Attacking Black and White Knights(potd).
 - Day 37 - Finding Profession(potd).
+- Day 38 - Delete Nodes with greater on right(potd).
 
 LeetCode
 
@@ -42,6 +43,7 @@ LeetCode
 - Day 34 - Total Waviness of Numbers in Range |. (potd)
 - Day 35 - Reverse Words in a string.
 - Day 36 - Left and right sum differences(potd).
-- Day 37 - Largest Number
+- Day 37 - Largest Number.
+- Day 38 - Partition Array According to given pivot(potd).
 
 More solutions will be added regularly.
