@@ -46,5 +46,6 @@ LeetCode
 - Day 36 - Left and right sum differences(potd).
 - Day 37 - Largest Number.
 - Day 38 - Partition Array According to given pivot(potd).
+- Day 39 - Maximum Total sub Array | (potd).
 
 More solutions will be added regularly.
