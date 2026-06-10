@@ -1,0 +1,26 @@
+class Solution {
+    public int findIndex(String s) {
+        int closeCount = 0;
+        int openCount = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == ')') {
+                closeCount++;
+            }
+        }
+        for (int i = 0; i < s.length(); i++) {
+            if (openCount == closeCount) {
+                return i;
+            }
+
+            if (s.charAt(i) == '(') {
+                openCount++;
+            } else {
+                closeCount--;
+            }
+        }
+        if (openCount == closeCount) {
+            return s.length();
+        }
+return s.length();
+}
+}
